@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#XF",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:green_axe"
+    },
+    "X": {
+      "item": "mccourse:green_pickaxe"
+    },
+    "F": {
+      "item": "mccourse:green_hoe"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mccourse:green_paxel"
+  }
+}

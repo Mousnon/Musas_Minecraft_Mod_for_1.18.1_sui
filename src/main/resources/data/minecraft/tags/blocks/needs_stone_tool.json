@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:green_ore",
+    "mccourse:green_block",
+    "mccourse:raw_green_block",
+    "mccourse:deepslate_green_ore",
+    "mccourse:green_speedy_block",
+    "mccourse:green_coal_ore",
+    "mccourse:green_slab",
+    "mccourse:green_stairs",
+    "mccourse:green_door"
+  ]
+}

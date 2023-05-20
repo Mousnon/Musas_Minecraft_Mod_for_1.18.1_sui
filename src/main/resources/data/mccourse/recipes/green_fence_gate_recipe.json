@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "   ",
+    "S#S",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:green_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mccourse:green_fence_gate"
+  }
+}

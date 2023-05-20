@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:raw_green_block"
+    }
+  },
+  "result": {
+    "item": "mccourse:raw_green",
+    "count": 9
+  }
+}

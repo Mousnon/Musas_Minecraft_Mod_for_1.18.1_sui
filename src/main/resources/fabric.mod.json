@@ -6,11 +6,11 @@
   "name": "Musa's Minecraft Mod for 1.18.1",
   "description": "My first Mod!",
   "authors": [
-    "Musa Scaechtel"
+    "Musa Schaechtel"
   ],
   "contact": {
     "homepage": "https://musacode.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Mousnon/musas-minecraft-mod-for-1.18.1"
   },
 
   "license": "MIT",
@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.musa.musamaster.MCCourseMod"
+    ],
+    "client": [
+      "net.musa.musamaster.MCCourseClient"
     ]
   },
   "mixins": [

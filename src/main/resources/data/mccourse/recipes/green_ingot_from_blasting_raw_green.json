@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mccourse:raw_green"
+  },
+"result": "mccourse:green_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}
